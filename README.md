@@ -1,0 +1,12 @@
+# Social Distancing and Vital Monitoring (SDVM) Mask
+
+  
+documentation of work on senior design project for bachelors in electrical and computer engineering at King Abdulaziz University. The project consisted of a mask prototype 
+that was programmed using Arduino to be able to detect the users vital signs and how well they are social distancing.
+
+## Abstract
+
+One of the most prominent terms of 2020 is COVID-19, which is the virus that has caused one of the greatest pandemics in recent years. The virus is characterized by how fast it spreads, and although it causes mild flu-like symptoms, there have been cases where the symptoms progressed to a deadly stage. Currently, there is no market-ready vaccination for the virus. So, countries have opted for preventative measures such as social distancing, wearing masks, washing hands, etc. These preventative measures have become habitual day-to-day rituals that must be abided to decrease the virus’s spread. However, there have been difficulties containing the virus in overcrowded situations where social distancing is hard to follow. There have also been multiple instances where patients have shown delayed symptoms and unknowingly spread the virus to those nearby. These difficulties indicate that there should be a smarter method of implementing proper preventive measures where individuals can feel confident in going out to perform their everyday routines in the current pandemic situation. Therefore, the proposed solution is a mask that can help the user maintain social distancing and monitor their vital signs to be aware of their health status. The baseline design of the proposed solution consists of a mask with detachable and adjustable straps. The mask consists of sensors that detect the distancing of people around the user and the user’s temperature and oxygen saturation levels. It is also connected to a mobile application, where all the alerts and information from the mask are displayed. The application helps the user track their vital signs and receive alerts in case of any abnormalities. In addition, it alerts the user when social distancing is not being respected. The mask’s main features are that it is lightweight so that it is comfortably worn, and it is easily cleaned for reusability. 
+
+## Index Terms 
+Social Distancing, Vital Signs Monitoring, Smart Mask, COVID-19, Distance Detection, Mobile Application, Preventative Measures.
